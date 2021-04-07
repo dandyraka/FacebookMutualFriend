@@ -11,7 +11,7 @@ Misalnya kita ingin menghapus teman dengan mutual kurang dari 20.
 > Ini PC only ya, butuh console pada browser, tidak untuk termux
 
 **Cara penggunaan :**
-1. Masuk ke page Friendlist menggunakan url mobile facebook ([Klik Disini](https://m.facebook.com/USERNAME/friends))
+1. Masuk ke page Friendlist menggunakan url mobile facebook ([Klik Disini](https://m.facebook.com/me/friends))
 2. Masuk ke console browser
 3. Copy source code `mutual.js` pada console dan enter
 4. Source code akan bekerja scrolling hingga akhir (load all friends)
